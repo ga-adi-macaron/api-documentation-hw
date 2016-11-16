@@ -32,6 +32,6 @@
 
 9. Finally, you want to let your current user add a new comment to one of those photos tagged as "gelato". What URL would you use to add a comment to a specific photo? And what type of HTTP request would you need to use?
 
-	curl -F 'access_token=ACCESS-TOKEN' \-F 'text=This+is+my+comment' \https://api.instagram.com/v1/media/{media-id}/comments
+	https://api.instagram.com/v1/media/{media-id}/comments
 	
 	This is a POST request.
