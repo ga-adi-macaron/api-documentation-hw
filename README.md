@@ -50,3 +50,13 @@ Review the [Instagram API documentation](https://www.instagram.com/developer/) a
 #### Deliverable
 
 Add your answers to the answers.txt file in this repository. Submit a pull request from your forked copy of the repo back to the original repo.
+
+## Additional Resources
+
+- [API Documentation Lesson](https://github.com/ga-adi-macaron/Course-Materials/tree/master/lessons/web-communication/api-documentation-lesson) (Not covered in class; easy to read through on your own)
+
+---
+
+## Licensing
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact [legal@ga.co](mailto:legal@ga.co).
